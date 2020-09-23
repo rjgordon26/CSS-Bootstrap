@@ -72,17 +72,13 @@ h2 {
 }
 
 .footer {
-    /* background-color: grey; */
-    /* margin-top: auto; */
-    /* height: 50px; */
-    /* text-align: center; */
     position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: grey;
-   color: teal;
-   text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: teal;
+    text-align: center;
 }
 
 @media screen and(max-width: 700px) {
